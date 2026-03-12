@@ -1,0 +1,18 @@
+skill:
+  id: note-taker
+  name: 📝 笔记助手
+  version: "1.0.0"
+  
+description: |
+  AI 自动整理笔记、标签分类、全文搜索
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - note-taker
+  - 📝 笔记助手
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
